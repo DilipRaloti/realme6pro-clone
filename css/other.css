@@ -1,0 +1,23 @@
+.seprate-section{
+    /* background-color: #fff; */
+    padding: 30px 20px;
+    display: flex;
+    /* justify-content: center; */
+    /* text-align: center; */
+    line-height:35px;
+    position: relative;
+    
+}
+.seprate-section img{
+ margin-right: 20px;
+}
+.seprate-section-bottom{
+    padding: 20px;
+}
+.seprate-section-bottom img{
+    margin: 10px;
+}
+.contact-list form .contact-sec{
+    /* background-color:; */
+    padding: 50px 10px;
+}

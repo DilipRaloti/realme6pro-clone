@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -10;
+  }
+.container{
+        width:457px;
+        margin: 0 auto;
+        box-sizing: border-box;
+  }
+.container img{
+      width: 100%;
+      border-radius:60px;
+ 
+  }
+  .icon1 {
+      position: absolute;
+      top: 87%;
+      left: 41%;
+      width: 50px;
+  }
+  .icon2 {
+      position: absolute;
+      top: 87%;
+      left: 45%;
+      width: 50px;
+  }
+  .icon3{
+      position: absolute;
+      top: 87%;
+      left: 52%;
+      width: 50px;
+  }
+  .icon4{
+      position: absolute;
+      top: 87%;
+      left: 56%;
+      width: 50px;
+  }
+  .icon5{
+      position: absolute;
+      top: 90%;
+      left: 49%;
+      width: 25px;
+      /* border-radius: 50px 20px 20px; */
+  }
